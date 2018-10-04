@@ -1,0 +1,15 @@
+# Executables
+*.out
+
+# Prerequisites
+*.d
+*_t
+
+# Static libraries
+*.a
+
+# Dynamic libraries
+*.so
+
+# Object files
+*.o
